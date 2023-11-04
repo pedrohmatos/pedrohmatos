@@ -19,6 +19,9 @@
 
 <div>
   <h3> :earth_americas: contact:</h3>
+  <a href="https://www.linkedin.com/in/pedro-matos-7b8a50287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:pedroheunapolis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
