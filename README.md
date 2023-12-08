@@ -15,11 +15,15 @@
   <img align="center" alt="pedro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">Git
   <img align="center" alt="pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
   <img align="center" alt="pedro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
+</div>
+
+## Studying
+<div>
   <img align="center" alt="pedro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">TypeScript
 </div>
 
 <div>
-  <h3> :earth_americas: contact:</h3>
+  <h3>🌎contact:</h3>
   <a href="https://www.linkedin.com/in/pedro-matos-7b8a50287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
