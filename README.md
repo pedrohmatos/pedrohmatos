@@ -20,7 +20,7 @@
 
 <div>
   <h3>🌎contact:</h3>
-  <a href="https://www.linkedin.com/in/pedro-matos-7b8a50287/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-matos-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pedroheunapolis@gmail.com" target="_blank">
