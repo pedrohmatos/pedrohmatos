@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Pedro+Matos&fontSize=30&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+PEDRO+MATOS;I'm+20+years+old;I'm+from+Brazil,+BA;Welcome!+to+my+repositories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+PEDRO+MATOS;I'm+21+years+old;I'm+from+Brazil,+BA;Welcome!+to+my+repositories)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center;">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohmatos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="pedrohmatos github stats"/>
