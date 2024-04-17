@@ -17,6 +17,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">TypeScript
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">Bootstrap
+  <img align="center" alt="Tailwind"  height="30" width="40" src="https://skillicons.dev/icons?i=tailwind"/>Tailwind
  </div>
 
 <div>
