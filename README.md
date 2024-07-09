@@ -18,6 +18,8 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">TypeScript
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">Bootstrap
   <img align="center" alt="Tailwind"  height="30" width="40" src="https://skillicons.dev/icons?i=tailwind"/>Tailwind
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">NodeJS
+  <img align="center" alt="Express"  height="30" width="40" src="https://skillicons.dev/icons?i=express"/>Express
  </div>
 
 <div>
